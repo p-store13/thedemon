@@ -1,0 +1,24 @@
+{
+   "sessionName": "hengaming",
+   "ownerNumber": "420737348142@s.whatsapp.net",
+   "ownerName": "Hen Gaming",
+   "botName": "THE DEMON BOT",
+   "footer": "THE DEMON © 2022",
+   "butName": "YouTube",
+   "butLink": "https://youtube.com/channel/UC9dqdgv36_2dZbqT9txxKTw",   
+   "pathThumb": "./temp/logo.jpg",
+   "pathQris": "./temp/qris.jpg",
+   "packname": "IG :",
+   "author": "iamhen_",
+   "mess": {
+    "wait": "*Tunggu permintaan anda sedang diproses!*",
+    "error": "*Maaf terjadi kesalahan!*",
+    "lv": "Link yang kamu berikan tidak valid",
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium"
+   }
+}
